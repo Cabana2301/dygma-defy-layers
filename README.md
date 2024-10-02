@@ -11,6 +11,7 @@
 - Generic shortcuts like Cut, Copy, Paste, Undo are nice to have on the navigation layer, each with a single keypress.
 - A useful quality of life layer would be one where different types of brackets are easily accessible ()[]{}<>
 - A basic and useful macro is to type `->` with a single key press.
+- Keys that behave in a different way, depending on how long you press them is asking for trouble.
 
 
 ## See my layouts as JSON files in this repo
@@ -58,6 +59,58 @@ iaculis elit.
 --------------------------------------------------------------------------------
 
 ```
+[Me, doing it in about a minute and a half](https://www.reddit.com/r/DygmaLab/comments/1ffpgew/after_less_than_a_month_with_a_defy_it_looks_like/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
+Your end result should look like this:
+```
+move the instructions below the text and follow the instructions
+
+--------------------------------------------------------------------------------
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nec urna in odio 
+suscipit maximus ac id odio. Donec lobortis quam vitae lectus lobortis, quis 
+euismod neque egestas. Morbi sodales condimentum augue, nec laoreet mauris 
+fermentum id. Nunc eget ipsum dignissim, eleifend massa quis, interdum est. 
+Nulla sollicitudin erat ac dui tempor, vel 
+cursus sapien placerat. Quisque tempor id dui fermentum fringilla. Suspendisse 
+consequat imperdiet ligula. Nulla faucibus est eu augue malesuada, consectetur 
+accumsan elit vehicula. Curabitur sit amet accumsan libero. Nulla sed risus in 
+velit facilisis molestie ac at arcu. Etiam nunc purus, mollis a finibus in, 
+efficitur egestas sem. Duis a libero quis massa imperdiet tempor. Nullam ac 
+viverra neque, sed euismod sapien. 
+Vestibulum sagittis tristique arcu in interdum. Aliquam massa nisi, pretium a 
+purus vel, tempor commodo massa. Suspendisse et purus eros. Suspendisse ligula 
+mauris, mattis et pellentesque id, lobortis lacinia nunc. Donec pretium commodo 
+mauris vitae congue. Praesent at orci sit amet nulla euismod finibus. Proin 
+sodales iaculis faucibus. Proin metus est, congue non tristique sit amet, 
+hendrerit ac erat. Suspendisse consequat, mauris et tincidunt venenatis, orci 
+lorem mattis lacus, at feugiat sem magna et odio. Mauris vitae tincidunt nulla, 
+quis tempor tellus. Aenean sagittis consequat 
+lorem, sit amet ultricies neque imperdiet quis. Vivamus sit amet congue lorem. 
+Aenean posuere, orci malesuada interdum tincidunt, turpis velit consectetur 
+mauris, in pellentesque mi tellus in lacus. Mauris vitae vehicula quam. Quisque 
+quis libero sed felis egestas pharetra ac ac quam. Nullam vitae rutrum erat. 
+Nunc eu purus quis est venenatis mollis. Quisque sodales sapien lacinia pretium 
+fringilla. Fusce quis diam 
+mollis, blandit felis sed, consectetur lectus. Donec sed lorem a odio congue 
+bibendum. Pellentesque ut lobortis diam. Suspendisse id mi ultricies, cursus 
+sem vitae, gravida arcu. Praesent 
+varius ullamcorper leo, eget consectetur sem viverra nec. Nullam sollicitudin 
+nisl at ultricies imperdiet. Vestibulum a ex et eros luctus vestibulum in id 
+orci. Suspendisse tempor lorem dolor, ac imperdiet lacus ultrices vitae. Nam 
+condimentum sapien sit amet odio gravida condimentum. Duis a efficitur neque, in 
+iaculis elit. 
+--------------------------------------------------------------------------------
+[** 1. type MyKeyboard: MyKeyboard **] 
+[** 2. fix typos: typing fast **] 
+[** 3. remove symbols: NavigationLayer **] 
+[** 4. practice makes perfect **] 
+[** 5. write a C++ hello world program **] 
+#include <iostream>
+
+int main() {
+	std::cout << "Hello World!" << std::endl;
+	return 0;
+}
+```
 
 

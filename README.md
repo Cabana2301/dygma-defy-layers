@@ -1,6 +1,6 @@
 # Layout Insights:
 
-- Many layers hare hard to manage.
+- Many layers are hard to manage.
 - The main two layers, typing and navigation are equally useful and frequently used. They should be equaly accessible and convenient. Toggling between them should be a single accessible key press.
 - All modifiers, SHIFT, CTRL, ALT, and optionally WIN, should be accessible to both hands. One trick to accomplish this is in a dedicated layer that is universally accessible as a LayerShift. This layer can have modifiers on the home row of both hands.
 - The modifier layer can be a gateway to quality of life layers. e.g. a numpad.
